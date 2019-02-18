@@ -1,5 +1,5 @@
 # Path Findng Algorithm
-Graphical example of a A* path finding algorithm
+Graphical example of a A* path finding algorithm in Python 2
 
 ### Usage
 - Use the left mouse button to draw walls reprosented by green blocks. 
